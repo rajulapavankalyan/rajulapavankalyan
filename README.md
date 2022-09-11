@@ -1,7 +1,7 @@
-<h1>Hello Everyone, I'm Pavan Kalyan :raised_hands: </h1>
+<h1>Hello Everyone, I'm Pavan Kalyan :wave: </h1>
 
-- 👋 Hi, I’m Rajula Pavan Kalyan Reddy, currently pursuing B.Tech from Vellore Institute of Technology, Vellore (VIT Vellore). I'm doing majors in Computer Science and minors in Bioinformatics.
-- 👀 I have always loved solving logical problems and have been good at handling them. I’m interested in exploring new technologies and sciences. I'm ready to accept challenges while learning.
+- I’m Rajula Pavan Kalyan Reddy, currently pursuing 4th year in B.Tech in CSE with specialization in Bioinformatics from Vellore Institute of Technology, Vellore (VIT Vellore).
+- 👀 I have always loved solving logical and analytical problems. I’m interested in exploring new technologies and sciences. I'm ready to accept challenges while learning.
 - 📫 You can reach me through my email or using below links to connect with me. To know more about me and my projects, please look at my CV and Resume.
 
 
